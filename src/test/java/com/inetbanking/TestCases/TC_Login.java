@@ -23,5 +23,6 @@ public void loginTest()
 public void TestCode()
 {
 	System.out.println("Testing");
+	System.out.println("Testing1");
 }
 }
