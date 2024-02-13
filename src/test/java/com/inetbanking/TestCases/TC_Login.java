@@ -20,4 +20,8 @@ public void loginTest()
 	lp.clickSubmit();
 	
 }
+public void TestCode()
+{
+	System.out.println("Testing");
+}
 }
